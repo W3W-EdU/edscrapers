@@ -11,7 +11,7 @@ chardet==3.0.4
 ckanapi==4.3
 click==7.1.1
 constantly==15.1.0
-cryptography==2.8
+cryptography==46.0.5
 cssselect==1.1.0
 dash-bootstrap-components==0.9.1
 dash-core-components==1.8.1
